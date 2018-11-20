@@ -1,5 +1,5 @@
 # iSeeing
-iSeeing (read 'icing') is a finite difference python solver for single-phase phase field equation.
+iSeeing (read 'icing') is a finite difference python solver for single-phase phase field equation. The solver allows to visualize (hence the name) crystal growth during the solidification of an undercooled liquid.
 The solver is based on the work of Kobayashi [1].
 
 Laplacians use a 2nd order 9-points stencil, gradients a 2nd order 2-points stencil.
