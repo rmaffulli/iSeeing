@@ -9,5 +9,9 @@ Explicit time marching using first order Euler is done for both the phase field 
 
 iSeeing has plenty of scope for improvement in both performance and accuracy but is nonetheless a nice tool for educational purposes.
 
+Below is a 6-fold symmetric crystal generated with the code.
+
+![](Snowflake.png?raw=true "Title")
+
 # Reference
 [1] Kobayashi, Ryo. "Modeling and numerical simulations of dendritic crystal growth." Physica D: Nonlinear Phenomena 63.3-4 (1993): 410-423.
